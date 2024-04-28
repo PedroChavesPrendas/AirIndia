@@ -1,0 +1,27 @@
+/* th {
+    font-size: 20px; /* Change font size 
+    padding-right: 250px;/* Add additional padding to the right for space 
+    margin-left: 50px;
+  } 
+  */
+
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  th {
+    border: 1px solid black;
+    text-align: left; /* Align table headings to the left */
+    padding: 8px;
+  }
+
+  .center-heading th {
+    text-align: center; /* Align table headings to the center */
+  }
+
+  td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
