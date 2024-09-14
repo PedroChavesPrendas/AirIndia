@@ -30,6 +30,9 @@ headers = {
 }
 
 data = {
+    # Follow the steps on this document to remove sensitive information below: 
+    # https://docs.github.com/en/enterprise-cloud@latest/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository 
+    # Contact me in case you have any questions
     'requestToken': 'NBeG6tfspf9LxdTJQ4Wu',
     'deleteRowNumHidden': '',
     'DeleteDetails': 'N',
